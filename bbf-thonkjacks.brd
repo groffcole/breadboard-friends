@@ -149,8 +149,6 @@
 <wire x1="1.905" y1="-1.27" x2="13.97" y2="-1.27" width="0" layer="20"/>
 <text x="1.905" y="36.83" size="0.8128" layer="25" ratio="15" rot="R90">cc-by-sa</text>
 <text x="3.175" y="36.83" size="0.8128" layer="25" ratio="15" rot="R90">G. Johnson</text>
-<text x="16.1925" y="51.435" size="1.016" layer="26" ratio="15" rot="MR0">+</text>
-<text x="15.5575" y="0" size="1.016" layer="25" ratio="15">-</text>
 </plain>
 <libraries>
 <library name="SparkFun">
