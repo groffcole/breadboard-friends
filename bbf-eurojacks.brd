@@ -126,7 +126,7 @@
 <wire x1="6.35" y1="8.255" x2="8.255" y2="6.985" width="0" layer="20" curve="90"/>
 <wire x1="8.255" y1="6.985" x2="20.955" y2="6.985" width="0" layer="20"/>
 <text x="8.255" y="45.085" size="0.8128" layer="25" ratio="15" rot="R90">cc-by-sa</text>
-<text x="9.525" y="45.085" size="0.8128" layer="25" ratio="15" rot="R90">Olivier Gillet</text>
+<text x="9.525" y="45.085" size="0.8128" layer="25" ratio="15" rot="R90">Émilie Gillet</text>
 </plain>
 <libraries>
 <library name="SparkFun">

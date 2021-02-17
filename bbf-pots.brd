@@ -139,7 +139,7 @@
 <text x="12.7" y="35.56" size="1.016" layer="25" ratio="15">A</text>
 <text x="17.78" y="35.56" size="1.016" layer="25" ratio="15">B</text>
 <text x="12.065" y="53.975" size="0.8128" layer="25" ratio="15">cc-by-sa</text>
-<text x="12.065" y="52.705" size="0.7112" layer="25" ratio="15">Olivier Gillet</text>
+<text x="12.065" y="52.705" size="0.7112" layer="25" ratio="15">Émilie Gillet</text>
 </plain>
 <libraries>
 <library name="SparkFun">

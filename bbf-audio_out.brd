@@ -131,7 +131,7 @@
 <text x="25.4" y="25.0825" size="0.8128" layer="21" ratio="15">&lt;Voltage</text>
 <text x="25.4" y="33.9725" size="0.8128" layer="21" ratio="15">&gt;Out</text>
 <text x="22.225" y="42.545" size="0.8128" layer="25" ratio="15">cc-by-sa</text>
-<text x="22.225" y="41.275" size="0.8128" layer="25" ratio="15">Olivier Gillet</text>
+<text x="22.225" y="41.275" size="0.8128" layer="25" ratio="15">Émilie Gillet</text>
 </plain>
 <libraries>
 <library name="SparkFun">

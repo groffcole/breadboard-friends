@@ -130,7 +130,7 @@
 <text x="8.5725" y="10.795" size="1.016" layer="25" ratio="15">GND</text>
 <text x="8.5725" y="53.975" size="1.016" layer="25" ratio="15">GND</text>
 <text x="22.225" y="29.845" size="0.8128" layer="25" ratio="15">cc-by-sa</text>
-<text x="22.225" y="28.575" size="0.7112" layer="25" ratio="15">Olivier Gillet</text>
+<text x="22.225" y="28.575" size="0.7112" layer="25" ratio="15">Émilie Gillet</text>
 </plain>
 <libraries>
 <library name="rcl">
