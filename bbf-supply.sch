@@ -9952,8 +9952,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <sheet>
 <plain>
 <text x="106.68" y="142.24" size="2.54" layer="94">cc-by-sa</text>
-<text x="106.68" y="137.16" size="2.54" layer="94">Olivier Gillet</text>
-<text x="106.68" y="132.08" size="2.54" layer="94">ol.gillet@gmail.com</text>
+<text x="106.68" y="137.16" size="2.54" layer="94">Émilie Gillet</text>
 <text x="33.02" y="154.94" size="1.778" layer="97">+/- 5V supply</text>
 </plain>
 <instances>
